@@ -1,6 +1,3 @@
-// error_log( print_r( $formdata, true ) );
-// die();
-
 
 //Send attachment based on select
 add_action('wpcf7_before_send_mail', 'before_send_mail', 100);
